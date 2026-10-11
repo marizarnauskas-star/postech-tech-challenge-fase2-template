@@ -98,8 +98,8 @@ exatamente os números da seção 5.
 
 | Modelo | Acurácia | Precisão | Recall | F1 | AUC-ROC |
 |---|---|---|---|---|---|
-| <!-- PREENCHER --> | | | | | |
-| | | | | | |
+| Regressão Logística (Baseline) | 0,61 | 0,03 | 0,58 | 0,05 | 0,6043 |
+| Random Forest (Campeão) | 0,96 | 0,17 | 0,31 | 0,22 | **0,7476** |
 
 **Modelo escolhido:** Random Forest — Escolhido por apresentar o maior poder discriminatório entre os clientes (ROC-AUC médio de 0,7476 vs 0,6043 do modelo linear) e por conseguir capturar relações não-lineares complexas entre as variáveis socioeconômicas sem cair em overfitting.
 
