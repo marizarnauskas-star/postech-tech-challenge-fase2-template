@@ -23,8 +23,8 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 |---|---|
 | Repositório | https://github.com/marizarnauskas-star/postech-tech-challenge-fase2-template |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
+| Vídeo executivo (≤ 5 min) | https://www.loom.com/share/f848a21059ef43ceada5372ab7cf8306 |
+| Apresentação | https://drive.google.com/file/d/1JKsoVJ1aqHF4wK1Ll7Q_gzQ9NUkqpiY6/view?usp=sharing |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
 > Confira o acesso em uma janela anônima antes de enviar.
