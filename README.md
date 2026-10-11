@@ -122,11 +122,12 @@ exatamente os números da seção 5.
 
 ## 7. Estrutura do repositório
 
-```
+```text
 .
 ├── data/          dados brutos (raw) e tratados (processed) — não versionados
 ├── notebooks/     análise em ordem numerada
 └── docs/          apresentação executiva
+
 ```
 
 Detalhes e convenções em [`ESTRUTURA.md`](ESTRUTURA.md).
@@ -136,4 +137,9 @@ Antes de enviar, percorra o [`CHECKLIST.md`](CHECKLIST.md).
 
 ## 8. Tecnologias
 
-<!-- PREENCHER: Python 3.11, pandas, scikit-learn, ... -->
+Linguagem: Python 3.11
+Manipulação e Análise de Dados: Pandas, NumPy
+Machine Learning e Preprocessamento: Scikit-Learn (RandomForestClassifier, LogisticRegression, Pipeline, StandardScaler, StratifiedKFold, train_test_split)
+Visualização de Dados: Matplotlib, Seaborn
+Ambiente de Desenvolvimento: Google Colab / Jupyter Notebooks
+Controle de Versão: Git e GitHub
