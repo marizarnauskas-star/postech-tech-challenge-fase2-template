@@ -1,23 +1,18 @@
 # Tech Challenge — Fase 2 | POSTECH Data Analytics
 
-> **INSTRUÇÕES:** este README é um template. Substitua **todos** os blocos marcados com
-> `<!-- PREENCHER -->` e apague as linhas de instrução antes de submeter.
-
----
-
 ## 1. Identificação
 
 | Campo | Valor |
 |---|---|
 | Turma | <!-- PREENCHER: ex. 12DTAT --> |
-| Grupo | <!-- PREENCHER: ex. Grupo 07 --> |
-| Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
+| Grupo | Grupo 52 |
+| Data de entrega | 10/10/2026 |
 
 ### Integrantes
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| <!-- PREENCHER --> | RM000000 | |
+| MARIANA ZARNAUSKAS AMARAL MARTINS| RM377741 | marianaz@bb.com.br |
 | | | |
 | | | |
 | | | |
